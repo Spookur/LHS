@@ -1,0 +1,7 @@
+CANADA OFFICE ID'S
+
+--47 Toronto TOR
+--49 London LDN
+--67 Prince Edward PEW
+--68 Ottawa OTT
+--127 Vancouver Island VCI
